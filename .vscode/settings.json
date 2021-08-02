@@ -1,0 +1,6 @@
+{
+    "css.completion.completePropertyWithSemicolon": false,
+    "prettier.semi": false,
+    "less.completion.completePropertyWithSemicolon": false,
+    "scss.completion.completePropertyWithSemicolon": false
+}
