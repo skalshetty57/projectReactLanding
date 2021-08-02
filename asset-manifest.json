@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/projectReactLanding/static/css/main.cf27da72.chunk.css",
+    "main.js": "/projectReactLanding/static/js/main.c6ae48fe.chunk.js",
+    "main.js.map": "/projectReactLanding/static/js/main.c6ae48fe.chunk.js.map",
+    "runtime-main.js": "/projectReactLanding/static/js/runtime-main.124d1cf5.js",
+    "runtime-main.js.map": "/projectReactLanding/static/js/runtime-main.124d1cf5.js.map",
+    "static/js/2.2cc159fe.chunk.js": "/projectReactLanding/static/js/2.2cc159fe.chunk.js",
+    "static/js/2.2cc159fe.chunk.js.map": "/projectReactLanding/static/js/2.2cc159fe.chunk.js.map",
+    "index.html": "/projectReactLanding/index.html",
+    "static/css/main.cf27da72.chunk.css.map": "/projectReactLanding/static/css/main.cf27da72.chunk.css.map",
+    "static/js/2.2cc159fe.chunk.js.LICENSE.txt": "/projectReactLanding/static/js/2.2cc159fe.chunk.js.LICENSE.txt",
+    "static/media/image-1.svg": "/projectReactLanding/static/media/image-1.198c8835.svg",
+    "static/media/image-2.5f11287c.svg": "/projectReactLanding/static/media/image-2.5f11287c.svg",
+    "static/media/image-5.svg": "/projectReactLanding/static/media/image-5.a05c880f.svg",
+    "static/media/image-6.svg": "/projectReactLanding/static/media/image-6.aba44a06.svg",
+    "static/media/image-7.f1a8b82c.svg": "/projectReactLanding/static/media/image-7.f1a8b82c.svg",
+    "static/media/image-8.49a288f1.svg": "/projectReactLanding/static/media/image-8.49a288f1.svg",
+    "static/media/video.293eae44.mp4": "/projectReactLanding/static/media/video.293eae44.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.124d1cf5.js",
+    "static/js/2.2cc159fe.chunk.js",
+    "static/css/main.cf27da72.chunk.css",
+    "static/js/main.c6ae48fe.chunk.js"
+  ]
+}
