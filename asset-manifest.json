@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projectReactLanding/static/css/main.cf27da72.chunk.css",
-    "main.js": "/projectReactLanding/static/js/main.cd87fc0c.chunk.js",
-    "main.js.map": "/projectReactLanding/static/js/main.cd87fc0c.chunk.js.map",
+    "main.js": "/projectReactLanding/static/js/main.496255d7.chunk.js",
+    "main.js.map": "/projectReactLanding/static/js/main.496255d7.chunk.js.map",
     "runtime-main.js": "/projectReactLanding/static/js/runtime-main.124d1cf5.js",
     "runtime-main.js.map": "/projectReactLanding/static/js/runtime-main.124d1cf5.js.map",
-    "static/js/2.2e2fe096.chunk.js": "/projectReactLanding/static/js/2.2e2fe096.chunk.js",
-    "static/js/2.2e2fe096.chunk.js.map": "/projectReactLanding/static/js/2.2e2fe096.chunk.js.map",
+    "static/js/2.cc41c559.chunk.js": "/projectReactLanding/static/js/2.cc41c559.chunk.js",
+    "static/js/2.cc41c559.chunk.js.map": "/projectReactLanding/static/js/2.cc41c559.chunk.js.map",
     "index.html": "/projectReactLanding/index.html",
     "static/css/main.cf27da72.chunk.css.map": "/projectReactLanding/static/css/main.cf27da72.chunk.css.map",
-    "static/js/2.2e2fe096.chunk.js.LICENSE.txt": "/projectReactLanding/static/js/2.2e2fe096.chunk.js.LICENSE.txt",
+    "static/js/2.cc41c559.chunk.js.LICENSE.txt": "/projectReactLanding/static/js/2.cc41c559.chunk.js.LICENSE.txt",
     "static/media/image-1.svg": "/projectReactLanding/static/media/image-1.198c8835.svg",
     "static/media/image-2.5f11287c.svg": "/projectReactLanding/static/media/image-2.5f11287c.svg",
     "static/media/image-5.svg": "/projectReactLanding/static/media/image-5.a05c880f.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.124d1cf5.js",
-    "static/js/2.2e2fe096.chunk.js",
+    "static/js/2.cc41c559.chunk.js",
     "static/css/main.cf27da72.chunk.css",
-    "static/js/main.cd87fc0c.chunk.js"
+    "static/js/main.496255d7.chunk.js"
   ]
 }
