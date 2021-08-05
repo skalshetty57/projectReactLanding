@@ -22,7 +22,7 @@ export const homeObjTwo={
     lightText:false,
     lightTextDesc:false,
     topLine: 'Doorstep Delivery',
-    headLine: 'Pickup and drop service at no extra charge',
+    headLine: 'Pick and drop service at zero cost',
     description: 'Use our pickup and drop facilities to get your car fixed and serviced from the comfort of your home.',
     buttonLabel: 'Learn More',
     imgStart: true,

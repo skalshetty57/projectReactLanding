@@ -4,6 +4,7 @@ import './App.css';
 import {HashRouter as Router, Switch, Route} from 'react-router-dom'
 import Home from './pages'
 import SigninPage from './pages/signin';
+import LoggedinPage from './pages/userLogin';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Switch>
         <Route path='/' component={Home} exact />
         <Route path='/signin' component={SigninPage} exact />
+        <Route path='/userLogin' component={LoggedinPage} exact />
       </Switch>
       
     </Router>
