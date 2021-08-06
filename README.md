@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It vis also hosted at 
+It is hosted at https://skalshetty57.github.io/projectReactLanding/#/
 ## Available Scripts
 
 In the project directory, you can run:
